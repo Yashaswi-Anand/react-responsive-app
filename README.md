@@ -16,6 +16,6 @@ Payment
 # Mobile View
 <div>
 <img src="screenshots/mobile_home.png" width=256 style="display:inline-block"/>
-<img src="screenshots/mobile_job.png" width=256 style="display:inline-block"/>
+<img src="screenshots/mobile_payment.png" width=256 style="display:inline-block"/>
 <img src="screenshots/mobile_menu.png" width=256 style="display:inline-block"/>
 </div>
